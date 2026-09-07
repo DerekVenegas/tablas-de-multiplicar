@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Tablas de multiplicar
+Comment=Tablas de multiplicar con interfaz
+Exec=/usr/bin/tablas_multiplicar_gui
+Icon=utilities-terminal
+Terminal=false
+Categories=Utility;Education;
